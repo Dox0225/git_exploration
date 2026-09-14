@@ -3,6 +3,7 @@ public class Main {
 
         System.out.println("Hi, I am MG");
         System.out.println("Hi MG, I am RW");
+        System.out.println("Hi MG and RW, I am MF");
         System.out.println("Hi MG and RW, I am EY");
     }
 }
